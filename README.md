@@ -169,8 +169,6 @@ We welcome contributions from the community! Here's how you can contribute:
 # Install development dependencies
 pip install -r requirements-dev.txt
 
-# Run tests
-python -m pytest tests/
 ```
 
 ## Troubleshooting
