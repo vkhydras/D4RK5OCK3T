@@ -1,0 +1,9 @@
+# Core dependencies
+sqlite3-utils
+typing-extensions
+
+# Development dependencies (optional)
+pytest
+black
+flake8
+mypy
